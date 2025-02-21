@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
       {
         source: '/',
         destination: '/systems/menus',
-        statusCode: 200
+        statusCode: 301
       }
     ]
   }
